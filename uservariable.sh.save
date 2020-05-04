@@ -1,0 +1,4 @@
+#! /bin/bash
+# assigning the value to the variable
+var1=10
+# careful as there should not be any sapce between equals, variable name and valu

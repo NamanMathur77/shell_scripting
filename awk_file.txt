@@ -1,0 +1,7 @@
+Name,Marks,Max_Marks
+Peter,200,1000
+Sam,500,1000
+Greg,1000
+Abharam,800,1000
+Henry,600,1000
+Peter,400,1000
