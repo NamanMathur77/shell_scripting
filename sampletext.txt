@@ -1,15 +1,4 @@
-HEllo
-hello
-hiii
-hello
-my name
-is naman
-mathur
-i
-am 
-from
-agra
-hello
-hello
-hello
-Hello
+SNO, Name, salary
+1, naman, 2000
+2, arpit, 3000
+3, ram, 4000
